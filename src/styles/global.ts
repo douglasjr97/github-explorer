@@ -1,6 +1,7 @@
 import { createGlobalStyle } from 'styled-components';
 import githubBackground from '../assets/Github.svg'
 
+
 export default  createGlobalStyle`
 *{
     margin:0;
