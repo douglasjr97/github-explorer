@@ -9,4 +9,4 @@ to run it just clone repo, run `yarn` to install dependencies, and run `yarn sta
 
 <br>
 
-![Project 001](https://github.com/douglasjr97/github-explorer/blob/main/screenshots/preview.gif)
+
